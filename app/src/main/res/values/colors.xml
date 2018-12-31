@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--RecyclerView 的分割线颜色-->
+    <color name="colorRecyclerItemDividerBg">#bababa</color>      <!--深色-->
+    <color name="colorWhite">#FFFFFF</color>
+
+    <!--所有选择与未选择的颜色值,针对TextView,试用所有有选择状态切换的-->
+    <color name="colorTextSelect">#5b6173</color>
+    <color name="colorTextCustomLight">#bdc0c7</color>    <!---少数的灰色-->
+    <color name="colorTextCustomDeep">#aeaeae</color>      <!---绝大多数的灰色-->
+    <color name="colorDialogClickPressBg">#9dababab</color>      <!--PX 线的颜色-->
+</resources>

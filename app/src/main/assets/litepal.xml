@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="day_home"/>
+    <version value="2"/>
+    <list >
+        <mapping class="com.litchiny.dailylife.mode.DayBillDB"/>
+        <mapping class="com.litchiny.dailylife.mode.BillTypeDB"/>
+
+    </list>
+
+    <storage value="external"/>
+</litepal>

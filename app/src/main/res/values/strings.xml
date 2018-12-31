@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DailyLife</string>
+    <string name="title_home">Bill</string>
+    <string name="title_dashboard">Cookery</string>
+    <string name="s_system_random_recipes">System random recipes</string>
+    <string name="s_custom_random_recipes">Custom random recipes</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">gjhj</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="price">Price : </string>
+    <string name="remark">Other : </string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="pls_category_name">Please enter a category name</string>
+</resources>

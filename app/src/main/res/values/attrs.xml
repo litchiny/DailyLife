@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlowLayout">
+        <attr name="flow_text_normal_color" format="color"/>
+        <attr name="flow_text_click_color" format="color"/>
+        <attr name="flow_text_size" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>
