@@ -7,7 +7,6 @@ package com.litchiny.dailylife.mode;
 public class TestBean  {
     public String text;
     public boolean draggable = true;
-    public boolean isClick = false;
 
     public TestBean(String text, boolean draggable) {
         this.text = text;
@@ -23,7 +22,6 @@ public class TestBean  {
     public String toString() {
         return "TestBean{" +
                 "text='" + text + '\'' +
-                ", isClick=" + isClick +
                 ", draggable=" + draggable +
                 '}';
     }
